@@ -2,6 +2,7 @@
   --color1: #A8283C ;
   --color2: #3C1118 ;
   --color3: #fff ;
+  --color4: #212529;
 }
 
 body {
@@ -39,6 +40,7 @@ body {
   text-decoration: none;
   color: var(--color3);
 }
+
 
 @media (max-width: 768px) {
   #Contacto form label {
